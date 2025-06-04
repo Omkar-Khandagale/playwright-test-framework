@@ -1,0 +1,31 @@
+{
+  "name": "playwright-test-framework",
+  "version": "1.0.0",
+  "description": "Automation framework using Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omkar-Khandagale/playwright-test-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Omkar-Khandagale/playwright-test-framework/issues"
+  },
+  "homepage": "https://github.com/Omkar-Khandagale/playwright-test-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0",
+    "playwright-core": "^1.52.0"
+  }
+}
